@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" modified="2023-02-16T08:29:01.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ZOpjoTvapgm0K2k0NvKe" version="20.8.20" type="device"><diagram name="Page-1" id="8WINDIpehY6bAnPWfBdL">7Vxbl6I4EP41PnYfLqLy2Nr29M7p2dNndGZ6HzOQRlYkboi3/fWbQJA7RAVF135ok+qkUnz1VRFC2R11tNh+wWA5+4ZM6HQUydx21OeOosiSJtEPJtkFEq2vBgIL2yYfFAkm9r8wnMmlK9uEXmIgQcgh9jIpNJDrQoMkZABjtEkO+0ROctUlsGBGMDGAk5X+sk0yC6QDpR/JX6FtzcKV5Z4e/GUBwsH8SrwZMNEmJlLHHXWEESJBa7EdQYeBF+ISzHsp+OveMAxdIjJB+vEx//NN+zlG/e7rBH8dIH3+0Au0rIGz4hfcUYYPAj90WGekdJ7omlJxo1hVxfxKI9h8hVqvUqKow05/JGBNWeMX/E1///jjRDVRQ8SivDGBIU/LpWMbgNjIPU7NYYaEjW/AmNkupP03CLBru5bQ6nU64hyNY33TeKM+T57J2nLPFwZxRfQL+qc4T/jZQQDO8kyTY2XVJZ/ZRafzJQDhDGaLLHQ2Y0Qi7yRXv06/vdFb8Wgyob+/TgQMGaao17MIWzcPjxcHeHPae8FgATcIz3O0JvXt1aUUQUBWmKX78ZZgYCRvNzVDcmf/LbH/f5jbW9i43o3Mid4pnytMxiou10Hm86Adw6a1TLyZRuZiw3OPKQa2/9SkvLxjaNrZO+q1+ul1On2nH9/hPyvoEY9e4HfoLZHrQe8cGeNCoVSSGdaHJpn2NVoJeUuMuiLKHtqoOFs75GRtCIw5dE2WGMaT6eeK5cCn96MO0QTBLDS+7gPB1tGodNgzIIB+TAjC7EC7XE1j+yhx99x8vjtoreMMu+LdxB1RYURZOi3Ydx3qgNsB5ZZodsoecz93nTsuUr1OKLqh+2SN9sdVNQHLSfvcg14InhJW/tnMZ3Aw7D0a3rrMDRkNBGALkrxpBey/8+9C/BN7zV+Vd/LH5en2845fB0F2YXEFgVv2VmIzswmcLIHBxBsMllQ2IwuH9mTfVL9EAWI6vLD2Qd5XVCy2XyBaQIJ3dMg2WU3Ci1BU3t1EFR1aj8tmsWoONRQCXkVi7TVHhRa0wWstDqi76OfUXaTAwWjlmtDkIDSPkZLEqNvNgiQrOSBpSlMgDVoIktY6lPT2odTttw4lWc+gAk0LTngXYTJDFnKBM46kwwg3ljKjMW8ILTlaf0NCdrxsDawISmIJtzb5iLX/YqoeNd573nLNfmcXdlx6vR/xTmwW60bT/F447xO5hBsi93h/hByE/atVJf9n71928eXepVihFTZgGajcW8Fdv2ygks8XDB26pVknLanf91ImRNLv54sjRjpLxKjJgNHknICRcgKm21i8yBnMcqsFLg1cd9A25MIUds80dWYaRTTTFNDlTJlGyUZNpljn0iGj9NoWMnI3A9u+HrfgmSEGiUcwmsOQgC5yWUB92o6TEgHHtlzaNShOkMqHDEX6TO088T8sbNP0ozHPB0kv+SHAjWI2OOA3dNjbEMsflzamIEA8uoTtWlM/xh8iPQibEOfoiAdd/TedrpblgZ73VNQYDbQMDXIKku+EaIwQ3YHWMkZkv5+QrY+/E6IxQii9lhEifLgte9qFrvnEvvkTIROjQo6TatzJZIGMHzHlPfBymfD2hK/wjmy6cOHZjZ7CP9hf8Unx7wil9MjdCkXB/iujyPfl/qpPcK96EffuN8JyciOsVO2Ew1132I5PK9x217gt7gvuivuXJGf62VY6lpxahaICclK2gF1s2JIN8Bqhb3Yfexb6hix8lKR+gomyVPEESDvvENv0wtn97rksGORAd1k0sF5aXY1sHwiyfXDRVFzFUlG6q/3j6F4bmfO+G3rPxdfOTr0udlYoapqdAm/QmmSn9KjrajpBKsckyHzecmUHZe4ayawLklm/KJl7KQ7Kx5J5UKGoaTILvOm8p9prY2c6Q6bfbQqzU69QdDQ7aTf6/xPB8Oi/eKjj/wA=</diagram></mxfile>+------------------------------------+       +-------------------------+      +-------------------------------+
+|              Web UI                |       |    Web Application       |      |         Machine Learning       |
+|                                    |       |                         |      |                               |
+|   +------------------------+      |       | +---------------------+ |      | +-------------------------+   |
+|   |                        |      |       | |                     | |      | |                         |   |
+|   |      HTML/CSS/JS       +-------------> |   Flask Framework    +------------>   Feature Extraction  |   |
+|   |                        |      |       | |                     | |      | |                         |   |
+|   +------------------------+      |       | +---------------------+ |      | +-------------------------+   |
+|                                    |       |                         |      | +-------------------------+   |
++-------------------------+----------+       +-------------------------+      |                             |
+                          |                                                    |   Model Training/Prediction  |
+                          |            HTTP Requests/Responses               |                             |
++-------------------------v----------+                                        |                             |
+|                                     |                                        +-----------------------------+
+|      Backend RESTful API           |        +-----------------------+
+|                                     |        |      Data Storage      |
++-------------------------+----------+        +-----------------------+
+                          |                       |         |           |
+                          |                       |         |           |
+                          |   API Requests/Responses |         |           |
+                          |                       |         |           |
++-------------------------v----------+    +-------v--------+  +--------v---------+
+|                                     |    |                |  |                  |
+|          Application                |    | features.csv   |  |   target.csv     |
+|                                     |    |                |  |                  |
++-------------------------------------+    +----------------+  +------------------+
+
+
++-----------------------------------------------------+
+|                        Patient                      |
++-----------------------------------------------------+
+| - id: int                                           |
+| - name: str                                         |
+| - age: int                                          |
+| - gender: str                                       |
+| - symptoms: List[str]                               |
++-----------------------------------------------------+
+        ^
+        |
++-------|---------------------+
+|       |                     |
+| +---------------+          |
+| |  MedicalRecord|          |
+| +---------------+          |
+| | - id: int     | 1      1   |
+| | - notes: str  |<>--------->|          +--------------------------------------------------+
+| | - patient: Patient |          |                      Diagnosis                      |
+| +---------------+          +--------------------------------------------------+
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+| +---------------+          +---------------------------------------------------+
+| |  DiagnosisEngine  |          |                      ML Model                       |
+| +---------------+          +---------------------------------------------------+
+| | - id: int     | 1      *   | - id: int                                          |
+| | - name: str   |<>--------- | - name: str                                        |
+| | - models: List[MLModel] |    | - description: str                                 |
+| +---------------+             | - trained: bool                                    |
+                                 | - train(X, y): bool                                |
+                                 | - predict(X: List[str]) -> Tuple[str, float, Dict]  |
+                                 +---------------------------------------------------+
